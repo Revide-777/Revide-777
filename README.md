@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there I'm Revide👋
 
+## About me
+I'm a 2nd year Information Technology in KMITL. Currently interested and learning Cybersecurity.
 <!--
 **Revide-777/Revide-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
