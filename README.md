@@ -1,7 +1,7 @@
-## Hi there I'm Revide👋
-
+## Hi there I'm Chanatan Kerdsawat👋
+or you can know me as Revide
 ## About me
-I'm a 2nd year Information Technology in KMITL. Currently interested and learning Cybersecurity.
+I'm a 2nd year Information Technology student in KMITL. Currently interested and learning Cybersecurity.
 <!--
 **Revide-777/Revide-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
