@@ -1,5 +1,5 @@
-## Hi there I'm Chanatan Kerdsawat👋
-or you can know me as Revide
+## Hi there I'm Revide👋
+---
 ## About me
 I'm a 2nd year Information Technology student in KMITL. Currently interested and learning Cybersecurity.
 <!--
